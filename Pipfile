@@ -10,7 +10,7 @@ python_version = "3.*"
 "psycopg2-binary" = "*"
 django-heroku = "*"
 gunicorn = "*"
-django = "*"
+django = ">=2.2.4"
 qdds = "*"
 
 [dev-packages]
